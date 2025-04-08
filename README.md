@@ -1,6 +1,6 @@
 ## Hi there, I am Nazwa Najmuddin 👋
 
-- 🧑‍🏭 I’m currently working as a System & Automation Engineer.
+- 🧑‍🏭 I’m currently working as a Project & Control Systems Engineer.
 - 🤖 I am into Mobile Robotics & Industrial Automation.
 - 🗨️ I’m currently learning from my mistakes.
 - 📫 How to reach me: <a href="mailto:naznajmuddin@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/nazwanajmuddin/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
